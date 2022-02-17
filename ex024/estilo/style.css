@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    width: 500px;
+    border-collapse: collapse;
+}
+.cnome {
+    background-color: greenyellow;
+}
+.csexo {
+    background-color: red;
+}
+.cprof {
+    background-color: blueviolet;
+}
+.cidade {
+    background-color: aqua;
+}
+caption {
+    font-size: 1.1em;
+    font-weight: bolder;
+    padding: 6px;
+}
+th, td {
+    border: 0.8px solid black;
+    padding: 6px;
+}
